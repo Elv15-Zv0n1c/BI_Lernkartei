@@ -1,0 +1,8 @@
+{
+  "name": "BI Lernkartei",
+  "description": "Interaktive Lernkarten für Fachbegriffe der Business-Intelligence-Prüfungsvorbereitung im klassischen Karteikasten-Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
